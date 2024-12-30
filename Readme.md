@@ -1,4 +1,4 @@
-# 7x7 Stratejik Tahta Oyunu
+# Stratejik Tahta Oyunu
 
 Pygame kullanılarak geliştirilmiş, insan ve yapay zeka oyuncusunun yer aldığı bir stratejik tahta oyunu. Yapay zeka, Min-Max algoritması, Alpha-Beta budaması ve stratejik değerlendirmelerle akıllı hamleler yapar.
 
@@ -26,8 +26,8 @@ Pygame kullanılarak geliştirilmiş, insan ve yapay zeka oyuncusunun yer aldı�
 
 2. **Depoyu Klonlayın:**
    ```bash
-   git clone https://github.com/kullanici-adiniz/7x7-strategic-board-game.git
-   cd 7x7-strategic-board-game
+   git clone https://github.com/kkaradag2/game.git
+   cd game
 
 3. **Oyun Kuralları:**
     - Tahta bir başlangıç değeri ile açılır.
