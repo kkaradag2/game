@@ -37,7 +37,7 @@ pygame.init()
 
 # Oyun ekranı
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("7x7 Board Game")
+pygame.display.set_caption("Min-Max Board Game")
 
 # Oyuncu taşları
 P1_SYMBOL = "triangle"
