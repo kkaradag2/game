@@ -1,3 +1,24 @@
+"""
+###############################################################################
+# 7x7 Stratejik Tahta Oyunu
+# Author: Kemal Karadağ
+# GitHub: https://github.com/kkaradag2/game
+#
+# Açıklama:
+# Bu proje, Pygame kullanılarak geliştirilmiş bir stratejik tahta oyunudur. 
+# Yapay zeka oyuncusu, Min-Max algoritması ve stratejik değerlendirmelerle
+# insan oyuncuya karşı mücadele eder.
+#
+# Özellikler:
+# - 7x7 ızgara tabanlı strateji oyunu
+# - Min-Max algoritması ile akıllı yapay zeka
+# - Saldırı ve savunma değerlendirmesi
+# - Oyuncular için görsel geribildirim
+#
+###############################################################################
+"""
+
+
 import pygame
 import random
 

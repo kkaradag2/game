@@ -2,7 +2,6 @@
 
 Pygame kullanılarak geliştirilmiş, insan ve yapay zeka oyuncusunun yer aldığı bir stratejik tahta oyunu. Yapay zeka, Min-Max algoritması, Alpha-Beta budaması ve stratejik değerlendirmelerle akıllı hamleler yapar.
 
----
 
 ## 🎮 Özellikler
 
@@ -16,7 +15,6 @@ Pygame kullanılarak geliştirilmiş, insan ve yapay zeka oyuncusunun yer aldı�
 - **Görsel Geribildirim:**
   - Yapay zeka hesaplama yaparken ekranda "Hesaplanıyor..." mesajı gösterilir.
 
----
 
 ## 🚀 Kurulum
 
