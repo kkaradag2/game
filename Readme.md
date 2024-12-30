@@ -27,6 +27,7 @@ Pygame kullanılarak geliştirilmiş, insan ve yapay zeka oyuncusunun yer aldı�
    ```bash
    git clone https://github.com/kkaradag2/game.git
    cd game
+   ```
 
 ## 3. Oyun Kuralları:
     - Tahta bir başlangıç değeri ile açılır.
