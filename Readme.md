@@ -19,16 +19,16 @@ Pygame kullanılarak geliştirilmiş, insan ve yapay zeka oyuncusunun yer aldı�
 
 ## 🚀 Kurulum
 
-## 1. **Gereksinimler:**
+## 1. Gereksinimler:**
    - Python 3.8 veya üzeri
    - Pygame modülü (kurulumu aşağıda belirtilmiştir)
 
-## 2. **Depoyu Klonlayın:**
+## 2. Depoyu Klonlayın:
    ```bash
    git clone https://github.com/kkaradag2/game.git
    cd game
 
-## 3. **Oyun Kuralları:**
+## 3. Oyun Kuralları:
     - Tahta bir başlangıç değeri ile açılır.
     - Tahta 7x7 büyüklüğündedir
     - AI oyuncu 4 adet Mavi üçgen taşlara sahiptir
@@ -53,7 +53,7 @@ Pygame kullanılarak geliştirilmiş, insan ve yapay zeka oyuncusunun yer aldı�
     - Oyuncunun taşları varken, rakip oyuncunun hiç taşı yoksa: Oyuncu kazanır.
     - Oyuncunun hiç taşı yokken, rakip oyuncunun taşları varsa:Oyuncu kaybeder.
 
-## 3.4 **Toplamda 50 hamle sonrasında:**
+## 3.4 Toplamda 50 hamle sonrasında:
 
     - Eğer her iki oyuncunun taş sayısı eşitse: Beraberlik.
     - Eğer oyuncunun taş sayısı daha fazlaysa: Oyuncu kazanır.
