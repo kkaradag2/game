@@ -14,7 +14,8 @@ Pygame kullanılarak geliştirilmiş, insan ve yapay zeka oyuncusunun yer aldı�
 - **Görsel Geribildirim:** 
   - Yapay zeka hesaplama yaparken ekranda "Hesaplanıyor..." mesajı gösterilir.
 
-![Oyun görünümü](/assets/images/game_welcome.png)
+
+<img src="/assets/images/game_welcome.png" alt="Oyun görünümü" width="50%">
 
 ## 🚀 Kurulum
 
